@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>My Resume</title>
+	<link rel="stylesheet" href="styles.css">
+	<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+</head>
+<body>
+
+<div class="resume">
+   <div class="resume_left">
+     <div class="resume_profile">
+     </div>
+     <div class="resume_content">
+       <div class="resume_item resume_info">
+         <div class="title">
+           <p class="bold"><h1 style="color:white">Sparsh Sharma </h1></p><br/>
+           <p style="color:white">Computer Science Engineer</p>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fas fa-map-signs"></i>
+             </div>
+             <div class="data">
+               Solapur,Maharashtra<br /> India
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-mobile-alt"></i>
+             </div>
+             <div class="data">
+              9541356720
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-envelope"></i>
+             </div>
+             <div class="data">
+              sparshsharma787@gmail.com
+             </div>
+           </li>
+           
+         </ul>
+       </div>
+       <div class="resume_item resume_skills">
+         <div class="title">
+           <p class="bold">Technical Skills</p>
+         </div>
+         <table style="color:white">
+         <tr><td>Python</td><td>C</td></tr>
+         <tr><td>Java</td><td>GCP</td></tr>
+         <tr><td>OOPS</td><td>Data Structure</td></tr>
+         <tr><td>SQL</td><td>Machine Learning </td></tr>
+         </table>
+         
+       </div>
+       <div class="resume_item resume_social">
+         <div class="title">
+           <p class="bold">Profiles</p>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fab fa-hackerrank"></i>
+             </div>
+           </li>
+           
+           <li>
+             <div class="icon">
+               <i class="fab fa-github"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Github</p>
+               <p>/sparsh264</p>
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fab fa-linkedin"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Linkedin</p>
+               <p>/Sparsh Sharma</p>
+             </div>
+           </li>
+         </ul>
+       </div>
+     </div>
+  </div>
+  <div class="resume_right">
+    <div class="resume_item resume_about">
+        <div class="title">
+           <p class="bold">Career Objective</p>
+         </div>
+        <pTo join an interactive organization where I can showcase my skills, to enhance myself as per current technologies and built career in IT industry, to explore new technologies and to become better version of myself..</p>
+    </div>
+    <div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">EDUCATION</p>
+         </div>
+        <ul>
+            <li>
+                
+                <div class="info">
+                     <p class="semi-bold">Bachelor of Engineering  -  Present</p> 
+                  <p>Walchand Institute of Technology,Solapur</p>
+                  <p>Stream - Computer Science Engineering</p>
+                  
+                </div>
+            </li>
+            <li>
+              
+              <div class="info">
+                     <p class="semi-bold">H.S.C(12th)  - (2016-2017)</p> 
+                  <p>MVM public school,J&K</p>
+                  <p>Stream - Science</p>
+                  <p>Percentage - 83.2%</p>
+                </div>
+            </li>
+            <li>
+              
+              <div class="info">
+                     <p class="semi-bold">S.S.C(10th)  -  (2014-2015)</p> 
+                  <p>MVM public school,J&K</p>
+                  <p>Percentage -9 cpga</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="resume_item resume_education">
+      <div class="title">
+           <p class="bold">PROJECTS</p>
+         </div>
+      <ul>
+            <li>
+                
+                <div class="info">
+                     <p class="semi-bold">setiment analysis of tweets(2020)</p> 
+                  <p>it was a ML based project and aimof the project was to classify the tweets as negative,positive and neutral tweets.</p>
+                </div>
+            </li>
+            <li>
+              
+              <div class="info">
+                     <p class="semi-bold">Recommendation For Made In India Products</p> 
+                  <p>The aim of the project is to provide recommendation for altervative Made in india products for any foreign products.</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="resume_item resume_education">
+      <div class="title">
+           <p class="bold">TRAINING & INTERNSHIP</p>
+         </div>
+      <ul>
+            <li>
+                
+                <div class="info">
+                  <p>Machine  Learning Trainee,experthub</p>
+		  <p>Successfully completed 15 days internship as a machine learning Trainee 
+at expertshub In the internship we learned about different aspects of 
+Machine Learning and in the end worked on a project named Sentiment 
+analysis of tweets.</p>
+
+                </div>
+            </li>
+        </ul>
+    </div>
+    
+  </div>
+</div>
+
+</body>
+</html>
